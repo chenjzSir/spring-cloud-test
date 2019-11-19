@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-eureka-server" />
+        <module name="cloud-eureka-test" />
+        <module name="cloud-Gateway-demo" />
+        <module name="com-batch-learning" />
+        <module name="com-netty-learning" />
+        <module name="com-other-learning" />
+        <module name="com-redis-learning" />
+        <module name="com.base.jdk8" />
+        <module name="com.spring.learning" />
+        <module name="elastic-job" />
+        <module name="Elastic-job-demo" />
+        <module name="eureka-client-demo" />
+        <module name="eureka-server-ha" />
+        <module name="feign-consumer-demo" />
+        <module name="server-consumer-ribbon" />
+        <module name="service-hi.by.zipkin" />
+        <module name="service-miya.by.zipkin" />
+        <module name="service-zuul-demo" />
+        <module name="springboot-batch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.redis.learning" target="1.8" />
+      <module name="my.server.test" target="1.8" />
+      <module name="server-test" target="1.8" />
+      <module name="server.dao" target="1.8" />
+      <module name="spring-cloud-Finchley" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

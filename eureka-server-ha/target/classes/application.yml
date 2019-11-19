@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: eureka-server-ha
+  profiles:
+    active: peer2

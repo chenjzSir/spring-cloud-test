@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/pom.xml" />
+        <option value="E:/Code/springboot-batch-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../Elastic-job-demo/pom.xml" />
+        <option value="E:/Code/elastic-job-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../my-server-test/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi.by.zipkin/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../my-server-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../my-server-test/server-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../my-server-test/server-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.redis.learning/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

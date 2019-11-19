@@ -1,0 +1,7 @@
+第九篇: 服务链路追踪(Spring Cloud Sleuth)(Finchley版本)
+本文的案例主要有三个工程组成:一个server-zipkin,它的主要作用使用ZipkinServer 的功能，收集调用数据，并展示；
+一个service-hi,对外暴露hi接口；
+一个service-miya,对外暴露miya接口；
+这两个service可以相互调用；并且只有调用了，server-zipkin才会收集数据的，这就是为什么叫服务追踪了。
+
+在spring Cloud为F版本的时候，已经不需要自己构建Zipkin Server了，只需要下载jar即可

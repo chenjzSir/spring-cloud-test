@@ -1,0 +1,21 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: eureka-server-center
+
+eureka:
+  server:
+    enable-self-preservation: false
+    # 每隔10s扫描服务列表，移除失效服务
+    eviction-interval-timer-in-ms: 10000
+  client:
+    register-with-eureka: false #单点服务端不进行注册,否则就是自己注册自己了,这样表示eureka服务
+    fetch-registry: false  #不从注册中心获取注册信息
+    # 注意点：eureka.client.healthcheck.enabled=true配置项必须设置在application.yml中
+    # eureka.client.healthcheck.enabled=true 只应该在application.yml中设置。如果设置在bootstrap.yml中将会导致一些不良的副作用，例如在Eureka中注册的应用名称是UNKNOWN等。
+    healthcheck:
+      enabled: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka

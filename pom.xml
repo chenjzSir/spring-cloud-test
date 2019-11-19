@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <modules>
+        <module>cloud-eureka-server</module>
+        <module>eureka-client-demo</module>
+        <module>server-consumer-ribbon</module>
+        <module>feign-consumer-demo</module>
+        <module>service-zuul-demo</module>
+        <module>service-hi.by.zipkin</module>
+        <module>service-miya.by.zipkin</module>
+        <module>eureka-server-ha</module>
+        <module>cloud-Gateway-demo</module>
+    </modules>
+
+    <!-- spring boot -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.5.RELEASE</version>
+    </parent>
+
+    <groupId>spring-cloud-test</groupId>
+    <artifactId>spring-cloud-test</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!-- 公共属性 -->
+    <properties>
+        <java.version>1.8</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <swagger.version>2.9.2</swagger.version>
+        <swagger.annotations.version>1.5.3</swagger.annotations.version>
+        <swagger.bootstrap.ui.version>1.8.5</swagger.bootstrap.ui.version>
+        <spring.cloud.version>Finchley.SR1</spring.cloud.version>
+    </properties>
+
+    <!-- spring-cloud 版本管理-->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring.cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <!-- 公共依赖 -->
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+</project>

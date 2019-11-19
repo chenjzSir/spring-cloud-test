@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c5a7579-f824-4c8f-9d2d-e6dd8a7e39d5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-test/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/target/" />
+    <ignored path="E:/Code/springboot-batch-master/target/" />
+    <ignored path="$PROJECT_DIR$/../Elastic-job-demo/target/" />
+    <ignored path="E:/Code/elastic-job-master/target/" />
+    <ignored path="$PROJECT_DIR$/../my-server-test/target/" />
+    <ignored path="$PROJECT_DIR$/../my-server-test/server-dao/target/" />
+    <ignored path="$PROJECT_DIR$/../my-server-test/server-test/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com.cjz.redis/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com.spring.learning/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com-redis-learning/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com-netty-learning/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com-other-learning/target/" />
+    <ignored path="$PROJECT_DIR$/../spirngboot-demo/com-batch-learning/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-Finchley/target/" />
+    <ignored path="$PROJECT_DIR$/server-consumer-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/service-miya/target/" />
+    <ignored path="$PROJECT_DIR$/service-hi/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server-ha/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-Gateway-demo/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/service-zuul-demo/target/" />
+    <ignored path="$PROJECT_DIR$/feign-consumer-demo/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client-demo/target/" />
+    <ignored path="$PROJECT_DIR$/service-miya.by.zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/service-hi.by.zipkin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1298286345">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="67" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="14" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="14" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Mock" value="131" />
+          <entry key="class" value="1" />
+          <entry key="dummy" value="62" />
+          <entry key="java" value="6472" />
+          <entry key="properties" value="15" />
+          <entry key="txt" value="179" />
+          <entry key="xml" value="330" />
+          <entry key="yml" value="168" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="6472" />
+          <entry key="PLAIN_TEXT" value="372" />
+          <entry key="Properties" value="15" />
+          <entry key="XML" value="330" />
+          <entry key="YAML" value="168" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="Mock" value="1" />
+          <entry key="bak" value="1" />
+          <entry key="class" value="85" />
+          <entry key="csv" value="3" />
+          <entry key="java" value="636" />
+          <entry key="pom" value="3" />
+          <entry key="properties" value="10" />
+          <entry key="provides" value="1" />
+          <entry key="sql" value="3" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="77" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="27" />
+          <entry key="yml-bak" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="85" />
+          <entry key="JAVA" value="636" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Properties" value="10" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="81" />
+          <entry key="YAML" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+    <session id="986733240">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="1" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-cloud-test">
+      <favorite_root url="spring.batch.test.batch.CsvBatchConfig" module="spirngboot-demo" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-hi.by.zipkin/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/总结.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-miya.by.zipkin/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-zuul-demo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-Gateway-demo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-client-demo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-server-ha/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feign-consumer-demo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-consumer-ribbon/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Insfrastructure</find>
+      <find>emf</find>
+      <find>JobRepository</find>
+      <find>csvJobListener</find>
+      <find>LiteJobConfiguration</find>
+      <find>NettyServerInitializer</find>
+      <find>NettyServerListener</find>
+      <find>channelRead0</find>
+      <find>spring-boot-starter-aop</find>
+      <find>antsAcctHbDayStagesProcessor</find>
+      <find>ba</find>
+      <find>AntsAcctHbGeneralReader</find>
+      <find>antsAcctHbGeneralReader</find>
+      <find>reader</find>
+      <find>clearingFileReader</find>
+      <find>CsvBeanValidator</find>
+      <find>@Qualifier</find>
+      <find>threadPoolTaskExecutor</find>
+      <find>EntityManagerFactory</find>
+      <find>com.mysql.jdbc.Driver</find>
+      <find>resource</find>
+      <find>JrxBusRuntimeException</find>
+      <find>readLine</find>
+      <find>JobLauncher</find>
+      <find>PropertyUtils</find>
+      <find>findOne</find>
+      <find>jpa</find>
+      <find>DefaultLineMapper</find>
+      <find>ValidatingItemProcessor</find>
+      <find>CsvItemProcessor</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>RuntimeException</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\IdeaProjects\Project_test\spirngboot-demo\com.base.jdk8\src\main\java\base\learing\designModel\createModel</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/AdapterModel/Target.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/AdapterModel/Adaptee.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/AdapterModel/Adapter.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/AdapterModel/Test.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Man.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Lady.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Clothing.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Jacket.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Trouser.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Test.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Person.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceA.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceB.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceC.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/Test.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceAImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceBImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceCImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/Facade.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Object.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Action.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/ObjectImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/ActionImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/ProxyObject.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyModel/ProxyObject.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Subject.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/RealSubject.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/JDKDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Client.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Receiver.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Invoker.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Test.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Command.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/CommandImpl.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/Template.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/TemplateConcrete.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/Test.java" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/pom.xml" />
+        <option value="$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/Test.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka-test/src/main/java/cjz/cloud/eureka/EurekaServerAPP.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-Gateway-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-ha/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-consumer-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/server-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java-soft/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\java-soft\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1173" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud-Finchley" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552878970150" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../spirngboot-demo/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service-hi.by.zipkin/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15184563" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.aop.demo2" />
+      <recent name="com.aop.test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com.base.jdk8\src\main\java\cjz\jdk8\test\forStudy" />
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com.spring.learning\src\main\resources" />
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com-netty-learning\src\main\resources" />
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com-other-learning\src\main\resources" />
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com-redis-learning\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="spring.interfaceUse" />
+      <recent name="spring.batch.work.bo" />
+      <recent name="spring.batch.work" />
+      <recent name="utils" />
+      <recent name="cjz.all.utils.enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\com.redis.learning\src\main\java" />
+      <recent name="D:\IdeaProjects\Project_test\spirngboot-demo\src\main\java\spring\batch\test\test2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learing.designModel.constructionModel.ProxyDongTai.Client" />
+      <module name="com.base.jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learing.designModel.constructionModel.ProxyDongTai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learing.designModel.constructionModel.AdapterModel.Test" />
+      <module name="com.base.jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learing.designModel.constructionModel.AdapterModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learing.designModel.constructionModel.FacadeModel.Test" />
+      <module name="com.base.jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learing.designModel.constructionModel.FacadeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learing.designModel.xingweiMdoel.CommandModel.Test" />
+      <module name="com.base.jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learing.designModel.xingweiMdoel.CommandModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learing.designModel.createModel.PrototypeModel.Test" />
+      <module name="com.base.jdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learing.designModel.createModel.PrototypeModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="server-consumer-ribbon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="server-consumer-ribbon" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spirngboot-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.boot.cache.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elastic-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.buildworld.elasticjob.ElasticJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisAppTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com-redis-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="redis.RedisAppTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cjz.server.test.ServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHIApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-hi.by.zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkin.sleuth.demo.ServiceHIApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMiyaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-miya.by.zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zipkin.sleuth.demo.ServiceMiyaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBatchTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spirngboot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.batch.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring.batch.work.SpringBatchTestApplication" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootInterfaceTestApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.spring.learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="interfaceUse.SpringBootInterfaceTestApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ElasticJobApplication" />
+      <item itemvalue="Spring Boot.ServerApp" />
+      <item itemvalue="Spring Boot.SpringBatchTestApplication" />
+      <item itemvalue="Spring Boot.RedisAppTest" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.SpringBootInterfaceTestApp" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Spring Boot.ServiceHIApplication" />
+      <item itemvalue="Spring Boot.ServiceMiyaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c5a7579-f824-4c8f-9d2d-e6dd8a7e39d5" name="Default Changelist" comment="" />
+      <created>1541655332099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541655332099</updated>
+      <workItem from="1541655335607" duration="5312000" />
+      <workItem from="1541741321934" duration="5025000" />
+      <workItem from="1541988609746" duration="1201000" />
+      <workItem from="1542015673756" duration="1068000" />
+      <workItem from="1542097940398" duration="1308000" />
+      <workItem from="1542158280391" duration="2013000" />
+      <workItem from="1542676919080" duration="7479000" />
+      <workItem from="1542764691235" duration="12527000" />
+      <workItem from="1542952941232" duration="3160000" />
+      <workItem from="1543217228827" duration="8921000" />
+      <workItem from="1543281278840" duration="1275000" />
+      <workItem from="1543367793300" duration="1248000" />
+      <workItem from="1543388763608" duration="7125000" />
+      <workItem from="1543454180452" duration="6339000" />
+      <workItem from="1543565860478" duration="667000" />
+      <workItem from="1543902084392" duration="1245000" />
+      <workItem from="1543913727559" duration="4633000" />
+      <workItem from="1543973687066" duration="14715000" />
+      <workItem from="1544059159212" duration="3994000" />
+      <workItem from="1544160383685" duration="606000" />
+      <workItem from="1544406245274" duration="1297000" />
+      <workItem from="1544512689558" duration="24000" />
+      <workItem from="1544513923468" duration="728000" />
+      <workItem from="1545101282155" duration="7248000" />
+      <workItem from="1545187793750" duration="9078000" />
+      <workItem from="1545268836230" duration="4560000" />
+      <workItem from="1545284625511" duration="10127000" />
+      <workItem from="1545373490467" duration="626000" />
+      <workItem from="1545631740709" duration="12111000" />
+      <workItem from="1545702726220" duration="1352000" />
+      <workItem from="1545787538678" duration="594000" />
+      <workItem from="1545873643691" duration="594000" />
+      <workItem from="1546069010449" duration="3676000" />
+      <workItem from="1546392358353" duration="1252000" />
+      <workItem from="1546478109936" duration="4289000" />
+      <workItem from="1546565026473" duration="595000" />
+      <workItem from="1546825475766" duration="1172000" />
+      <workItem from="1546844493310" duration="505000" />
+      <workItem from="1546918612196" duration="33000" />
+      <workItem from="1546927667494" duration="251000" />
+      <workItem from="1546929619405" duration="159000" />
+      <workItem from="1547011301555" duration="124000" />
+      <workItem from="1547020894657" duration="3500000" />
+      <workItem from="1547173335820" duration="1152000" />
+      <workItem from="1547187512354" duration="1129000" />
+      <workItem from="1547541121739" duration="1847000" />
+      <workItem from="1547638031208" duration="608000" />
+      <workItem from="1547687520738" duration="16431000" />
+      <workItem from="1547773574209" duration="8746000" />
+      <workItem from="1548034328437" duration="6981000" />
+      <workItem from="1548041480131" duration="7901000" />
+      <workItem from="1548056556856" duration="5459000" />
+      <workItem from="1548062677777" duration="10875000" />
+      <workItem from="1548119041149" duration="14777000" />
+      <workItem from="1548205782033" duration="14190000" />
+      <workItem from="1548300414063" duration="2893000" />
+      <workItem from="1548380820522" duration="4779000" />
+      <workItem from="1548397814185" duration="3525000" />
+      <workItem from="1548834100720" duration="2443000" />
+      <workItem from="1548933537671" duration="3383000" />
+      <workItem from="1548987653744" duration="2558000" />
+      <workItem from="1549070099706" duration="788000" />
+      <workItem from="1549092762736" duration="2532000" />
+      <workItem from="1550211965456" duration="4318000" />
+      <workItem from="1550452657093" duration="9408000" />
+      <workItem from="1550648013500" duration="594000" />
+      <workItem from="1550734311924" duration="2523000" />
+      <workItem from="1550797978663" duration="2532000" />
+      <workItem from="1551168138678" duration="1661000" />
+      <workItem from="1551229887355" duration="1399000" />
+      <workItem from="1551324365143" duration="4648000" />
+      <workItem from="1551347960454" duration="637000" />
+      <workItem from="1551403072651" duration="10165000" />
+      <workItem from="1551663939350" duration="2826000" />
+      <workItem from="1551750182619" duration="931000" />
+      <workItem from="1551764208278" duration="1913000" />
+      <workItem from="1551835084033" duration="704000" />
+      <workItem from="1551921046235" duration="686000" />
+      <workItem from="1552267084488" duration="593000" />
+      <workItem from="1552352302651" duration="715000" />
+      <workItem from="1552359454638" duration="7523000" />
+      <workItem from="1552440643729" duration="8066000" />
+      <workItem from="1552529112589" duration="9887000" />
+      <workItem from="1552614434802" duration="6157000" />
+      <workItem from="1552877301863" duration="1522000" />
+      <workItem from="1574148716091" duration="1890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="mockitoTest_when_thenReturn - 2019.01.30 at 15h 49m 14s.xml">
+      <configuration name="mockitoTest.when_thenReturn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockitoDemo_mockitoListDemo - 2019.01.30 at 15h 55m 53s.xml">
+      <configuration name="MockitoDemo.mockitoListDemo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="348051000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.19029851" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" sideWeight="0.5005417" weight="0.18496802" />
+      <window_info id="Favorites" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23101953" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2733189" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.329718" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.3308026" />
+      <window_info anchor="right" id="BPMNPalette" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Api Debugger" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.19722815" />
+      <window_info anchor="right" id="Database" order="7" weight="0.2707889" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/AdapterModel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Man.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Lady.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Clothing.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Jacket.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Trouser.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/bridgeModel/Person.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceB.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceC.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/IServiceA.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceAImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceBImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/ServiceCImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/FacadeModel/Facade.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Object.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyModel/Action.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyModel/ActionImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyModel/ProxyObject.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Subject.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/RealSubject.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/JDKDynamicProxy.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/constructionModel/ProxyDongTai/Client.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Invoker.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Receiver.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/Template.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/CommandImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/TemplateConcrete.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Command.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com-other-learning/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/TemplateMethod/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../spirngboot-demo/com.base.jdk8/src/main/java/learing/designModel/xingweiMdoel/CommandModel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-test/src/main/java/cjz/cloud/eureka/EurekaServerAPP.java" />
+    <entry file="file://$PROJECT_DIR$/spring-cloud-Finchley/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-test/pom.xml" />
+    <entry file="jar://$USER_HOME$/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/org/apache/commons/collections/list/FixedSizeList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/org/apache/commons/collections/ListUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-Gateway-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server-ha/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feign-consumer-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-consumer-ribbon/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya.by.zipkin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-zuul-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi.by.zipkin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-cloud-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
