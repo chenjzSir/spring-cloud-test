@@ -30,4 +30,23 @@ public class ServiceHiApplication {
         return "hi " + name + " ,i am from port:" + port;
     }
 
+
+    @RequestMapping("/test")
+    public String info(){
+        System.out.println("calling trace service-hi");
+
+        return "i'm service-hi";
+
+    }
+
+    @RequestMapping("/pojo")
+    public BaseResponse<BookBO> pojo(){
+        System.out.println("calling trace service-hi");
+        BookBO book = new BookBO();
+        book.setId(1L);
+        book.setAuthor("cjz");
+        book.setName("cjzName");
+        return BaseResponse.newSuccResponse(book);
+
+    }
 }
